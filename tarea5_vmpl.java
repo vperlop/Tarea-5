@@ -174,4 +174,5 @@ public class tarea6 {
 
         return contador;
     }
+	System.out.println("Hola") ;
 }
